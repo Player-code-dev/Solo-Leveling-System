@@ -1,0 +1,22 @@
+{
+  "name": "Solo Leveling: System",
+  "short_name": "The System",
+  "description": "A 100% immersive Solo Leveling-inspired PWA that tracks your real-life quests, stats, and skills.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#0f172a",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icons/icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/icons/icon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
